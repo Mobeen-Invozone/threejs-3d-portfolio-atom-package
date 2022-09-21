@@ -1,7 +1,7 @@
 {
   "name": "threejs-3d-portfolio-atom-package1",
   "main": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Test Project for Atom",
   "keywords": [],
   "activationCommands": {
