@@ -1,10 +1,9 @@
 {
   "name": "threejs-3d-portfolio-atom-package1",
   "main": "",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Test Project for Atom",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "threejs-3d-portfolio:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
