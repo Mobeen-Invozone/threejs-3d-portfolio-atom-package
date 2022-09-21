@@ -1,0 +1,17 @@
+{
+  "name": "threejs-3d-portfolio",
+  "version": "0.0.0",
+  "description": "Test Project for Atom",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "threejs-3d-portfolio:toggle"
+  },
+  "repository": "https://github.com/Mobeen-Invozone/threejs-3d-portfolio",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
