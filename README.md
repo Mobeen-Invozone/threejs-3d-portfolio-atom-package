@@ -1,4 +1,4 @@
-# threejs-3d-portfolio package
+# threejs-3d-portfolio-atom-package1 package
 
 A short description of your package.
 
