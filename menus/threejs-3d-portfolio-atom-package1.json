@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle threejs-3d-portfolio",
-        "command": "threejs-3d-portfolio:toggle"
+        "label": "Toggle threejs-3d-portfolio-atom-package1",
+        "command": "threejs-3d-portfolio-atom-package1:toggle"
       }
     ]
   },
@@ -12,11 +12,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "threejs-3d-portfolio",
+          "label": "threejs-3d-portfolio-atom-package1",
           "submenu": [
             {
               "label": "Toggle",
-              "command": "threejs-3d-portfolio:toggle"
+              "command": "threejs-3d-portfolio-atom-package1:toggle"
             }
           ]
         }
